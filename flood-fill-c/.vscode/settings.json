@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "pd_api.h": "c",
+    "pd_api_gfx.h": "c"
+  },
+  "editor.formatOnSave": true
+}
